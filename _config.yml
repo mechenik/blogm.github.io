@@ -112,9 +112,8 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository:
-      github: git@github.com:mechenik/blogm.git
-      coding: git@e.coding.net:dabaireso/dabaireso/blog.git
+  repo: https://github.com/mechenik/blogm.github.io.git
+   
   branch: master
   
   
